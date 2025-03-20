@@ -61,25 +61,26 @@
       "name": "Fecha 3 - Fase de Grupos",
       "dateRange": "5 Abril, 2025",
       "matches": [
+       
         {
           "id": "match-5",
-          "homeTeam": "vikingos-voley",
-          "awayTeam": "republicanos",
-          "status": "upcoming",
-          "date": "5 Abril, 2025",
-          "time": "21:00",
-          "venue": "Gimnasio Norte",
-          "group": "A"
-        },
-        {
-          "id": "match-6",
           "homeTeam": "gadilotes",
           "awayTeam": "shekinonymous",
           "status": "upcoming",
           "date": "5 Abril, 2025",
-          "time": "21:30",
+          "time": "21:00",
           "venue": "Polideportivo UEB",
           "group": "B"
+        },
+        {
+          "id": "match-6",
+          "homeTeam": "vikingos-voley",
+          "awayTeam": "republicanos",
+          "status": "upcoming",
+          "date": "5 Abril, 2025",
+          "time": "21:30",
+          "venue": "Polideportivo UEB",
+          "group": "A"
         }
       ]
     },

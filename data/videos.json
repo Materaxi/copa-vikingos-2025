@@ -41,7 +41,7 @@
       "date": "12 Mar 2025"
     },
     {
-      "id": "video-5",
+      "id": "video-100",
       "title": "Copa Vikingos - Highlights",
       "description": "Momentos destacados de la Copa Vikingos",
       "thumbnail": "/images/teams/anonymous.png",
@@ -53,17 +53,17 @@
   ],
   "featuredVideos": [
     {
-      "id": "video-5",
-      "title": "Copa Vikingos - Highlights",
-      "description": "Momentos destacados de la Copa Vikingos",
-      "thumbnail": "/images/teams/anonymous.png",
-      "url": "https://www.youtube.com/watch?v=vtBZp50AL3w",
-      "youtubeId": "vtBZp50AL3w",
+      "id": "video-101",
+      "title": "Listo para iniciar el Campeonato - Highlights",
+      "description": "El Pr Nani y jovenes de la IU invitan a la Copa Vikingos",
+      "thumbnail": "/images/logo.png",
+      "url": "https://www.youtube.com/watch?v=giEYwbuTh3Y",
+      "youtubeId": "giEYwbuTh3Y",
       "duration": "4:32",
       "date": "22 Mar 2025"
     },
     {
-      "id": "video-1",
+      "id": "video-102",
       "title": "Resumen Fecha 1",
       "description": "Los mejores momentos de la primera fecha del torneo",
       "thumbnail": "/placeholder.svg?height=400&width=600",
@@ -73,7 +73,7 @@
       "date": "12 Mar 2025"
     },
     {
-      "id": "video-2",
+      "id": "video-103",
       "title": "Gol espectacular de Equipo A",
       "description": "Increíble gol desde fuera del área",
       "thumbnail": "/images/teams/kabod.png",

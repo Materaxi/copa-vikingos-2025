@@ -5,50 +5,51 @@
       "name": "Fecha 1 - Fase de Grupos",
       "dateRange": "22 Marzo, 2025",
       "matches": [
+       
         {
           "id": "match-1",
-          "homeTeam": "zelotes",
-          "awayTeam": "vikingos",
-         
-          "status": "upcoming",
-          "date": "22 Marzo, 2025",
-          "time": "21:00",
-          "venue": "Estadio UEB",
-          "group": "A"
-        },
-        {
-          "id": "match-2",
           "homeTeam": "hombres-fuego",
           "awayTeam": "anonymous",
        
           "status": "upcoming",
           "date": "22 Marzo, 2025",
-          "time": "21:30",
+          "time": "21:00",
           "venue": "Estadio UEB",
           "group": "B"
         },
         {
-          "id": "match-3",
+          "id": "match-2",
           "homeTeam": "generacion-kabob",
           "awayTeam": "fabrica-heroes",
           
           "status": "upcoming",
           "date": "22 Marzo, 2025",
-          "time": "22:00",
+          "time": "21:30",
           "venue": "Estadio UEB",
           "group": "A"
         },
         
         {
-          "id": "match-4",
+          "id": "match-3",
           "homeTeam": "legado-fc",
           "awayTeam": "club-italia",
           
           "status": "upcoming",
           "date": "22 Marzo, 2025",
-          "time": "22:30",
+          "time": "22:00",
           "venue": "Estadio UEB",
           "group": "B"
+        }
+        , {
+          "id": "match-4",
+          "homeTeam": "zelotes",
+          "awayTeam": "vikingos",
+         
+          "status": "upcoming",
+          "date": "22 Marzo, 2025",
+          "time": "22:30",
+          "venue": "Estadio UEB",
+          "group": "A"
         }
       ]
     },
@@ -107,45 +108,46 @@
       "name": "Fecha 3 - Fase de Grupos",
       "dateRange": "5 Abril, 2025",
       "matches": [
+      
         {
           "id": "match-9",
-          "homeTeam": "vikingos",
-          "awayTeam": "generacion-kabob",
-          "status": "upcoming",
-          "date": "5 Abril, 2025",
-          "time": "17:30",
-          "venue": "Estadio UEB",
-          "group": "A"
-        },
-        {
-          "id": "match-10",
           "homeTeam": "hombres-fuego",
           "awayTeam": "club-italia",
           "status": "upcoming",
           "date": "5 Abril, 2025",
-          "time": "19:00",
+          "time": "21:00",
           "venue": "Estadio UEB",
           "group": "B"
         },
         {
-          "id": "match-11",
+          "id": "match-10",
           "homeTeam": "zelotes",
           "awayTeam": "fabrica-heroes",
           "status": "upcoming",
           "date": "5 Abril, 2025",
-          "time": "15:00",
+          "time": "21:30",
           "venue": "Estadio UEB",
           "group": "A"
         },       
         {
-          "id": "match-12",
+          "id": "match-11",
           "homeTeam": "anonymous",
           "awayTeam": "legado-fc",
           "status": "upcoming",
           "date": "5 Abril, 2025",
-          "time": "20:15",
+          "time": "22:00",
           "venue": "Estadio UEB",
           "group": "B"
+        },
+        {
+          "id": "match-12",
+          "homeTeam": "vikingos",
+          "awayTeam": "generacion-kabob",
+          "status": "upcoming",
+          "date": "5 Abril, 2025",
+          "time": "22:30",
+          "venue": "Estadio UEB",
+          "group": "A"
         }
       ]
     },
