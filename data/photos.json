@@ -10,10 +10,10 @@
         {
           "id": "photo-1",
           "matchId": "match-1",
-          "url": "/placeholder.svg?height=800&width=1200",
-          "thumbnail": "/placeholder.svg?height=300&width=400",
+          "url": "/images/1503/campeones anteriores.png",
+          "thumbnail": "/images/1503/campeones anteriores.png",
           "caption": "Gol del Equipo A vs Equipo B",
-          "photographer": "Juan Pérez",
+          "photographer": "Foto: Kike",
           "date": "10 Mar 2025"
         },
         {
@@ -80,7 +80,7 @@
       "coverImage": "/placeholder.svg?height=400&width=600",
       "photos": [
         {
-          "id": "photo-6",
+          "id": "photo-8",
           "matchId": "match-5",
           "url": "/placeholder.svg?height=800&width=1200",
           "thumbnail": "/placeholder.svg?height=300&width=400",
@@ -89,7 +89,7 @@
           "date": "17 Mar 2025"
         },
         {
-          "id": "photo-7",
+          "id": "photo-9",
           "matchId": "match-5",
           "url": "/placeholder.svg?height=800&width=1200",
           "thumbnail": "/placeholder.svg?height=300&width=400",
@@ -102,16 +102,16 @@
   ],
   "featuredPhotos": [
     {
-      "id": "photo-1",
+      "id": "photo-100",
       "matchId": "match-1",
-      "url": "/placeholder.svg?height=800&width=1200",
-      "thumbnail": "/placeholder.svg?height=300&width=400",
+      "url": "/images/1503/campeones anteriores.png",
+      "thumbnail": "/images/1503/campeones anteriores.png",
       "caption": "Gol del Equipo A vs Equipo B",
       "photographer": "Juan Pérez",
       "date": "10 Mar 2025"
     },
     {
-      "id": "photo-3",
+      "id": "featured-1",
       "matchId": "match-1",
       "url": "/placeholder.svg?height=800&width=1200",
       "thumbnail": "/placeholder.svg?height=300&width=400",
@@ -120,7 +120,7 @@
       "date": "10 Mar 2025"
     },
     {
-      "id": "photo-5",
+      "id": "featured-2",
       "matchId": "match-2",
       "url": "/placeholder.svg?height=800&width=1200",
       "thumbnail": "/placeholder.svg?height=300&width=400",
@@ -129,7 +129,7 @@
       "date": "10 Mar 2025"
     },
     {
-      "id": "featured-1",
+      "id": "featured-3",
       "matchId": "match-1",
       "url": "/images/teams/mekadesh.png",
       "thumbnail": "/images/teams/mekadesh.png",
@@ -138,7 +138,7 @@
       "date": "22 Mar 2025"
     },
     {
-      "id": "featured-2",
+      "id": "featured-4",
       "matchId": "match-4",
       "url": "/images/teams/shekinah.png",
       "thumbnail": "/images/teams/shekinah.png",

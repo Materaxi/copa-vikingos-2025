@@ -5,30 +5,29 @@
       "name": "Fecha 1 - Fase de Grupos",
       "dateRange": "22 Marzo, 2025",
       "matches": [
-       
         {
           "id": "match-1",
-          "homeTeam": "hombres-fuego",
-          "awayTeam": "anonymous",
-       
-          "status": "upcoming",
-          "date": "22 Marzo, 2025",
-          "time": "21:00",
-          "venue": "Estadio UEB",
-          "group": "B"
-        },
-        {
-          "id": "match-2",
           "homeTeam": "generacion-kabob",
           "awayTeam": "fabrica-heroes",
           
           "status": "upcoming",
           "date": "22 Marzo, 2025",
-          "time": "21:30",
+          "time": "21:00",
           "venue": "Estadio UEB",
           "group": "A"
         },
-        
+        {
+          "id": "match-2",
+          "homeTeam": "hombres-fuego",
+          "awayTeam": "anonymous",
+       
+          "status": "upcoming",
+          "date": "22 Marzo, 2025",
+          "time": "21:30",
+          "venue": "Estadio UEB",
+          "group": "B"
+        },
+              
         {
           "id": "match-3",
           "homeTeam": "legado-fc",
