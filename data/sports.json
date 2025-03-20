@@ -1,0 +1,33 @@
+{
+  "sports": [
+    {
+      "id": "futbol",
+      "name": "Fútbol",
+      "icon": "futbol",
+      "format": "groups",
+      "description": "Torneo de fútbol masculino con fase de grupos y eliminatorias"
+    },
+    {
+      "id": "voley",
+      "name": "Vóley",
+      "icon": "volleyball",
+      "format": "groups",
+      "description": "Torneo de vóley con dos grupos y fase final"
+    },
+    {
+      "id": "futbol-damas",
+      "name": "Fútbol Damas",
+      "icon": "futbol-damas",
+      "format": "round-robin",
+      "description": "Torneo de fútbol femenino todos contra todos"
+    },
+    {
+      "id": "basquet",
+      "name": "Básquet",
+      "icon": "basketball",
+      "format": "round-robin",
+      "description": "Torneo de básquet todos contra todos"
+    }
+  ]
+}
+

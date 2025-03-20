@@ -1,0 +1,77 @@
+{
+  "teams": [
+    {
+      "id": "zelotes",
+      "name": "Zelotes",
+      "shortName": "ZEL",
+      "logo": "primary",
+      "stadium": "Estadio UEB",
+      "city": "Ciudad A",
+      "group": "A"
+    },
+    {
+      "id": "vikingos",
+      "name": "Vikingos",
+      "shortName": "VIK",
+      "logo": "blue-500",
+      "stadium": "Estadio Norte",
+      "city": "Ciudad B",
+      "group": "A"
+    },
+    {
+      "id": "generacion-kabob",
+      "name": "Generación Kabob",
+      "shortName": "GKB",
+      "logo": "green-500",
+      "stadium": "Estadio Metropolitano",
+      "city": "Ciudad C",
+      "group": "A"
+    },
+    {
+      "id": "fabrica-heroes",
+      "name": "Fábrica de Héroes",
+      "shortName": "FDH",
+      "logo": "purple-500",
+      "stadium": "Estadio Sur",
+      "city": "Ciudad D",
+      "group": "A"
+    },
+    {
+      "id": "hombres-fuego",
+      "name": "Hombres de Fuego",
+      "shortName": "HDF",
+      "logo": "red-500",
+      "stadium": "Estadio Central",
+      "city": "Ciudad E",
+      "group": "B"
+    },
+    {
+      "id": "anonymous",
+      "name": "Anonymous",
+      "shortName": "ANO",
+      "logo": "gray-500",
+      "stadium": "Estadio Olímpico",
+      "city": "Ciudad F",
+      "group": "B"
+    },
+    {
+      "id": "legado-fc",
+      "name": "Legado FC",
+      "shortName": "LFC",
+      "logo": "yellow-500",
+      "stadium": "Estadio Municipal",
+      "city": "Ciudad G",
+      "group": "B"
+    },
+    {
+      "id": "club-italia",
+      "name": "Club Italia",
+      "shortName": "ITA",
+      "logo": "cyan-500",
+      "stadium": "Estadio Internacional",
+      "city": "Ciudad H",
+      "group": "B"
+    }
+  ]
+}
+

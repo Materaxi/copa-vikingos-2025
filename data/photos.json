@@ -1,0 +1,151 @@
+{
+  "galleries": [
+    {
+      "id": "round-1-gallery",
+      "title": "Galería Fecha 1",
+      "description": "Fotos de los partidos de la primera fecha del torneo",
+      "roundId": "round-1",
+      "coverImage": "/placeholder.svg?height=400&width=600",
+      "photos": [
+        {
+          "id": "photo-1",
+          "matchId": "match-1",
+          "url": "/placeholder.svg?height=800&width=1200",
+          "thumbnail": "/placeholder.svg?height=300&width=400",
+          "caption": "Gol del Equipo A vs Equipo B",
+          "photographer": "Juan Pérez",
+          "date": "10 Mar 2025"
+        },
+        {
+          "id": "photo-2",
+          "matchId": "match-1",
+          "url": "/placeholder.svg?height=800&width=1200",
+          "thumbnail": "/placeholder.svg?height=300&width=400",
+          "caption": "Celebración del equipo ganador",
+          "photographer": "Juan Pérez",
+          "date": "10 Mar 2025"
+        },
+        {
+          "id": "photo-3",
+          "matchId": "match-1",
+          "url": "/placeholder.svg?height=800&width=1200",
+          "thumbnail": "/placeholder.svg?height=300&width=400",
+          "caption": "Atajada espectacular del portero",
+          "photographer": "María González",
+          "date": "10 Mar 2025"
+        },
+        {
+          "id": "photo-4",
+          "matchId": "match-2",
+          "url": "/placeholder.svg?height=800&width=1200",
+          "thumbnail": "/placeholder.svg?height=300&width=400",
+          "caption": "Jugada destacada Equipo C vs Equipo D",
+          "photographer": "María González",
+          "date": "10 Mar 2025"
+        },
+        {
+          "id": "photo-5",
+          "matchId": "match-2",
+          "url": "/placeholder.svg?height=800&width=1200",
+          "thumbnail": "/placeholder.svg?height=300&width=400",
+          "caption": "Aficionados en el estadio",
+          "photographer": "Carlos Rodríguez",
+          "date": "10 Mar 2025"
+        },
+        {
+          "id": "photo-6",
+          "matchId": "match-1",
+          "url": "/images/teams/kabod.png",
+          "thumbnail": "/images/teams/kabod.png",
+          "caption": "Equipo Kabod preparándose para el partido",
+          "photographer": "Carlos Rodríguez",
+          "date": "22 Mar 2025"
+        },
+        {
+          "id": "photo-7",
+          "matchId": "match-3",
+          "url": "/images/teams/anonymous.png",
+          "thumbnail": "/images/teams/anonymous.png",
+          "caption": "Equipo Anonymous celebrando victoria",
+          "photographer": "María González",
+          "date": "22 Mar 2025"
+        }
+      ]
+    },
+    {
+      "id": "round-2-gallery",
+      "title": "Galería Fecha 2",
+      "description": "Fotos de los partidos de la segunda fecha del torneo",
+      "roundId": "round-2",
+      "coverImage": "/placeholder.svg?height=400&width=600",
+      "photos": [
+        {
+          "id": "photo-6",
+          "matchId": "match-5",
+          "url": "/placeholder.svg?height=800&width=1200",
+          "thumbnail": "/placeholder.svg?height=300&width=400",
+          "caption": "Preparativos para el partido",
+          "photographer": "Ana Martínez",
+          "date": "17 Mar 2025"
+        },
+        {
+          "id": "photo-7",
+          "matchId": "match-5",
+          "url": "/placeholder.svg?height=800&width=1200",
+          "thumbnail": "/placeholder.svg?height=300&width=400",
+          "caption": "Entrada al estadio",
+          "photographer": "Ana Martínez",
+          "date": "17 Mar 2025"
+        }
+      ]
+    }
+  ],
+  "featuredPhotos": [
+    {
+      "id": "photo-1",
+      "matchId": "match-1",
+      "url": "/placeholder.svg?height=800&width=1200",
+      "thumbnail": "/placeholder.svg?height=300&width=400",
+      "caption": "Gol del Equipo A vs Equipo B",
+      "photographer": "Juan Pérez",
+      "date": "10 Mar 2025"
+    },
+    {
+      "id": "photo-3",
+      "matchId": "match-1",
+      "url": "/placeholder.svg?height=800&width=1200",
+      "thumbnail": "/placeholder.svg?height=300&width=400",
+      "caption": "Atajada espectacular del portero",
+      "photographer": "María González",
+      "date": "10 Mar 2025"
+    },
+    {
+      "id": "photo-5",
+      "matchId": "match-2",
+      "url": "/placeholder.svg?height=800&width=1200",
+      "thumbnail": "/placeholder.svg?height=300&width=400",
+      "caption": "Aficionados en el estadio",
+      "photographer": "Carlos Rodríguez",
+      "date": "10 Mar 2025"
+    },
+    {
+      "id": "featured-1",
+      "matchId": "match-1",
+      "url": "/images/teams/mekadesh.png",
+      "thumbnail": "/images/teams/mekadesh.png",
+      "caption": "Equipo Mekadesh en acción",
+      "photographer": "Ana Martínez",
+      "date": "22 Mar 2025"
+    },
+    {
+      "id": "featured-2",
+      "matchId": "match-4",
+      "url": "/images/teams/shekinah.png",
+      "thumbnail": "/images/teams/shekinah.png",
+      "caption": "Presentación del equipo Shekinah",
+      "photographer": "Carlos Rodríguez",
+      "date": "22 Mar 2025"
+    }
+  ]
+}
+

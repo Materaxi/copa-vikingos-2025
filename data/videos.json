@@ -1,0 +1,87 @@
+{
+  "videos": [
+    {
+      "id": "video-1",
+      "title": "Resumen Fecha 1",
+      "description": "Los mejores momentos de la primera fecha del torneo",
+      "thumbnail": "/placeholder.svg?height=400&width=600",
+      "url": "https://www.youtube.com/watch?v=vtBZp50AL3w",
+      "youtubeId": "vtBZp50AL3w",
+      "duration": "3:45",
+      "date": "12 Mar 2025"
+    },
+    {
+      "id": "video-2",
+      "title": "Gol espectacular de Equipo A",
+      "description": "Increíble gol desde fuera del área",
+      "thumbnail": "/images/teams/kabod.png",
+      "url": "https://www.youtube.com/watch?v=vtBZp50AL3w",
+      "youtubeId": "vtBZp50AL3w",
+      "duration": "0:45",
+      "date": "10 Mar 2025"
+    },
+    {
+      "id": "video-3",
+      "title": "Entrevista con el DT",
+      "description": "Entrevista exclusiva con el director técnico del Equipo C",
+      "thumbnail": "/images/teams/mekadesh.png",
+      "url": "https://www.youtube.com/watch?v=vtBZp50AL3w",
+      "youtubeId": "vtBZp50AL3w",
+      "duration": "5:20",
+      "date": "11 Mar 2025"
+    },
+    {
+      "id": "video-4",
+      "title": "Mejores atajadas de la fecha",
+      "description": "Las atajadas más impresionantes de la primera fecha",
+      "thumbnail": "/images/teams/shekinah.png",
+      "url": "https://www.youtube.com/watch?v=vtBZp50AL3w",
+      "youtubeId": "vtBZp50AL3w",
+      "duration": "2:15",
+      "date": "12 Mar 2025"
+    },
+    {
+      "id": "video-5",
+      "title": "Copa Vikingos - Highlights",
+      "description": "Momentos destacados de la Copa Vikingos",
+      "thumbnail": "/images/teams/anonymous.png",
+      "url": "https://www.youtube.com/watch?v=vtBZp50AL3w",
+      "youtubeId": "vtBZp50AL3w",
+      "duration": "4:32",
+      "date": "22 Mar 2025"
+    }
+  ],
+  "featuredVideos": [
+    {
+      "id": "video-5",
+      "title": "Copa Vikingos - Highlights",
+      "description": "Momentos destacados de la Copa Vikingos",
+      "thumbnail": "/images/teams/anonymous.png",
+      "url": "https://www.youtube.com/watch?v=vtBZp50AL3w",
+      "youtubeId": "vtBZp50AL3w",
+      "duration": "4:32",
+      "date": "22 Mar 2025"
+    },
+    {
+      "id": "video-1",
+      "title": "Resumen Fecha 1",
+      "description": "Los mejores momentos de la primera fecha del torneo",
+      "thumbnail": "/placeholder.svg?height=400&width=600",
+      "url": "https://www.youtube.com/watch?v=vtBZp50AL3w",
+      "youtubeId": "vtBZp50AL3w",
+      "duration": "3:45",
+      "date": "12 Mar 2025"
+    },
+    {
+      "id": "video-2",
+      "title": "Gol espectacular de Equipo A",
+      "description": "Increíble gol desde fuera del área",
+      "thumbnail": "/images/teams/kabod.png",
+      "url": "https://www.youtube.com/watch?v=vtBZp50AL3w",
+      "youtubeId": "vtBZp50AL3w",
+      "duration": "0:45",
+      "date": "10 Mar 2025"
+    }
+  ]
+}
+

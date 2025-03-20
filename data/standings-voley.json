@@ -1,0 +1,89 @@
+{
+  "standings": [
+    {
+      "teamId": "jedaialotes",
+      "position": 1,
+      "played": 1,
+      "won": 1,
+      "drawn": 0,
+      "lost": 0,
+      "setsFor": 3,
+      "setsAgainst": 1,
+      "setDifference": 2,
+      "points": 3,
+      "status": "promotion",
+      "group": "A"
+    },
+    {
+      "teamId": "vikingos-voley",
+      "position": 2,
+      "played": 1,
+      "won": 0,
+      "drawn": 0,
+      "lost": 1,
+      "setsFor": 1,
+      "setsAgainst": 3,
+      "setDifference": -2,
+      "points": 0,
+      "status": "promotion",
+      "group": "A"
+    },
+    {
+      "teamId": "republicanos",
+      "position": 3,
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "setsFor": 0,
+      "setsAgainst": 0,
+      "setDifference": 0,
+      "points": 0,
+      "status": "normal",
+      "group": "A"
+    },
+    {
+      "teamId": "gadilotes",
+      "position": 1,
+      "played": 1,
+      "won": 1,
+      "drawn": 0,
+      "lost": 0,
+      "setsFor": 3,
+      "setsAgainst": 2,
+      "setDifference": 1,
+      "points": 3,
+      "status": "promotion",
+      "group": "B"
+    },
+    {
+      "teamId": "fuegodaia",
+      "position": 2,
+      "played": 1,
+      "won": 0,
+      "drawn": 0,
+      "lost": 1,
+      "setsFor": 2,
+      "setsAgainst": 3,
+      "setDifference": -1,
+      "points": 0,
+      "status": "promotion",
+      "group": "B"
+    },
+    {
+      "teamId": "shekinonymous",
+      "position": 3,
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "setsFor": 0,
+      "setsAgainst": 0,
+      "setDifference": 0,
+      "points": 0,
+      "status": "normal",
+      "group": "B"
+    }
+  ]
+}
+

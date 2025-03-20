@@ -1,0 +1,201 @@
+{
+  "rounds": [
+    {
+      "id": "round-1",
+      "name": "Fecha 1 - Fase de Grupos",
+      "dateRange": "22 Marzo, 2025",
+      "matches": [
+        {
+          "id": "match-1",
+          "homeTeam": "zelotes",
+          "awayTeam": "vikingos",
+          "homeScore": 2,
+          "awayScore": 1,
+          "status": "completed",
+          "date": "22 Marzo, 2025",
+          "time": "15:00",
+          "venue": "Estadio UEB",
+          "group": "A"
+        },
+        {
+          "id": "match-2",
+          "homeTeam": "generacion-kabob",
+          "awayTeam": "fabrica-heroes",
+          "homeScore": 0,
+          "awayScore": 0,
+          "status": "completed",
+          "date": "22 Marzo, 2025",
+          "time": "17:30",
+          "venue": "Estadio Metropolitano",
+          "group": "A"
+        },
+        {
+          "id": "match-3",
+          "homeTeam": "hombres-fuego",
+          "awayTeam": "anonymous",
+          "homeScore": 3,
+          "awayScore": 1,
+          "status": "completed",
+          "date": "22 Marzo, 2025",
+          "time": "19:00",
+          "venue": "Estadio Central",
+          "group": "B"
+        },
+        {
+          "id": "match-4",
+          "homeTeam": "legado-fc",
+          "awayTeam": "club-italia",
+          "homeScore": 2,
+          "awayScore": 2,
+          "status": "completed",
+          "date": "22 Marzo, 2025",
+          "time": "20:15",
+          "venue": "Estadio Municipal",
+          "group": "B"
+        }
+      ]
+    },
+    {
+      "id": "round-2",
+      "name": "Fecha 2 - Fase de Grupos",
+      "dateRange": "29 Marzo, 2025",
+      "matches": [
+        {
+          "id": "match-5",
+          "homeTeam": "zelotes",
+          "awayTeam": "generacion-kabob",
+          "status": "upcoming",
+          "date": "29 Marzo, 2025",
+          "time": "15:00",
+          "venue": "Estadio UEB",
+          "group": "A"
+        },
+        {
+          "id": "match-6",
+          "homeTeam": "vikingos",
+          "awayTeam": "fabrica-heroes",
+          "status": "upcoming",
+          "date": "29 Marzo, 2025",
+          "time": "17:30",
+          "venue": "Estadio Norte",
+          "group": "A"
+        },
+        {
+          "id": "match-7",
+          "homeTeam": "hombres-fuego",
+          "awayTeam": "legado-fc",
+          "status": "upcoming",
+          "date": "29 Marzo, 2025",
+          "time": "19:00",
+          "venue": "Estadio Central",
+          "group": "B"
+        },
+        {
+          "id": "match-8",
+          "homeTeam": "anonymous",
+          "awayTeam": "club-italia",
+          "status": "upcoming",
+          "date": "29 Marzo, 2025",
+          "time": "20:15",
+          "venue": "Estadio Olímpico",
+          "group": "B"
+        }
+      ]
+    },
+    {
+      "id": "round-3",
+      "name": "Fecha 3 - Fase de Grupos",
+      "dateRange": "5 Abril, 2025",
+      "matches": [
+        {
+          "id": "match-9",
+          "homeTeam": "zelotes",
+          "awayTeam": "fabrica-heroes",
+          "status": "upcoming",
+          "date": "5 Abril, 2025",
+          "time": "15:00",
+          "venue": "Estadio UEB",
+          "group": "A"
+        },
+        {
+          "id": "match-10",
+          "homeTeam": "vikingos",
+          "awayTeam": "generacion-kabob",
+          "status": "upcoming",
+          "date": "5 Abril, 2025",
+          "time": "17:30",
+          "venue": "Estadio Norte",
+          "group": "A"
+        },
+        {
+          "id": "match-11",
+          "homeTeam": "hombres-fuego",
+          "awayTeam": "club-italia",
+          "status": "upcoming",
+          "date": "5 Abril, 2025",
+          "time": "19:00",
+          "venue": "Estadio Central",
+          "group": "B"
+        },
+        {
+          "id": "match-12",
+          "homeTeam": "anonymous",
+          "awayTeam": "legado-fc",
+          "status": "upcoming",
+          "date": "5 Abril, 2025",
+          "time": "20:15",
+          "venue": "Estadio Olímpico",
+          "group": "B"
+        }
+      ]
+    },
+    {
+      "id": "semifinal",
+      "name": "Semifinales",
+      "dateRange": "12 Abril, 2025",
+      "matches": [
+        {
+          "id": "match-13",
+          "homeTeam": "zelotes",
+          "awayTeam": "legado-fc",
+          "status": "upcoming",
+          "date": "12 Abril, 2025",
+          "time": "18:00",
+          "venue": "Estadio UEB",
+          "group": "Semifinal",
+          "description": "1° Grupo A vs 2° Grupo B"
+        },
+        {
+          "id": "match-14",
+          "homeTeam": "hombres-fuego",
+          "awayTeam": "vikingos",
+          "status": "upcoming",
+          "date": "12 Abril, 2025",
+          "time": "20:30",
+          "venue": "Estadio Central",
+          "group": "Semifinal",
+          "description": "1° Grupo B vs 2° Grupo A"
+        }
+      ]
+    },
+    {
+      "id": "final",
+      "name": "Final",
+      "dateRange": "19 Abril, 2025",
+      "matches": [
+        {
+          "id": "match-15",
+          "homeTeam": "zelotes",
+          "awayTeam": "hombres-fuego",
+          "status": "upcoming",
+          "date": "19 Abril, 2025",
+          "time": "20:00",
+          "venue": "Estadio Nacional",
+          "group": "Final",
+          "description": "Gran Final"
+        }
+      ]
+    }
+  ]
+}
+

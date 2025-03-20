@@ -1,0 +1,37 @@
+{
+  "teams": [
+    {
+      "id": "fabrica-heroes-damas",
+      "name": "Fábrica de Héroes",
+      "shortName": "FHD",
+      "logo": "purple-500",
+      "stadium": "Estadio Sur",
+      "city": "Ciudad A"
+    },
+    {
+      "id": "mekadesh",
+      "name": "Mekadesh",
+      "shortName": "MEK",
+      "logo": "pink-500",
+      "stadium": "Estadio Este",
+      "city": "Ciudad B"
+    },
+    {
+      "id": "kerigma",
+      "name": "Kerigma",
+      "shortName": "KER",
+      "logo": "teal-500",
+      "stadium": "Estadio Norte",
+      "city": "Ciudad C"
+    },
+    {
+      "id": "shekinah",
+      "name": "Shekinah",
+      "shortName": "SHK",
+      "logo": "amber-500",
+      "stadium": "Estadio Oeste",
+      "city": "Ciudad D"
+    }
+  ]
+}
+

@@ -1,0 +1,57 @@
+{
+  "standings": [
+    {
+      "teamId": "fabrica-heroes-damas",
+      "position": 1,
+      "played": 1,
+      "won": 1,
+      "drawn": 0,
+      "lost": 0,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "goalDifference": 1,
+      "points": 3,
+      "status": "promotion"
+    },
+    {
+      "teamId": "kerigma",
+      "position": 2,
+      "played": 1,
+      "won": 0,
+      "drawn": 1,
+      "lost": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 1,
+      "status": "normal"
+    },
+    {
+      "teamId": "shekinah",
+      "position": 3,
+      "played": 1,
+      "won": 0,
+      "drawn": 1,
+      "lost": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "goalDifference": 0,
+      "points": 1,
+      "status": "normal"
+    },
+    {
+      "teamId": "mekadesh",
+      "position": 4,
+      "played": 1,
+      "won": 0,
+      "drawn": 0,
+      "lost": 1,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "goalDifference": -1,
+      "points": 0,
+      "status": "normal"
+    }
+  ]
+}
+

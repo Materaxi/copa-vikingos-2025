@@ -1,0 +1,59 @@
+{
+  "teams": [
+    {
+      "id": "jedaialotes",
+      "name": "Jedaialotes",
+      "shortName": "JED",
+      "logo": "indigo-500",
+      "stadium": "Polideportivo Central",
+      "city": "Ciudad A",
+      "group": "A"
+    },
+    {
+      "id": "vikingos-voley",
+      "name": "Vikingos",
+      "shortName": "VIK",
+      "logo": "blue-500",
+      "stadium": "Gimnasio Norte",
+      "city": "Ciudad B",
+      "group": "A"
+    },
+    {
+      "id": "republicanos",
+      "name": "Republicanos",
+      "shortName": "REP",
+      "logo": "red-500",
+      "stadium": "Polideportivo Este",
+      "city": "Ciudad C",
+      "group": "A"
+    },
+    {
+      "id": "fuegodaia",
+      "name": "Fuegodaia",
+      "shortName": "FUE",
+      "logo": "orange-500",
+      "stadium": "Gimnasio Central",
+      "city": "Ciudad D",
+      "group": "B"
+    },
+    {
+      "id": "gadilotes",
+      "name": "Gadilotes",
+      "shortName": "GAD",
+      "logo": "green-500",
+      "stadium": "Polideportivo Oeste",
+      "city": "Ciudad E",
+      "group": "B"
+    },
+    {
+      "id": "shekinonymous",
+      "name": "Shekinonymous",
+      "shortName": "SHE",
+      "logo": "purple-500",
+      "stadium": "Gimnasio Sur",
+      "city": "Ciudad F",
+      "group": "B"
+    }
+  ]
+}
+

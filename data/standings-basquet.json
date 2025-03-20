@@ -1,0 +1,57 @@
+{
+  "standings": [
+    {
+      "teamId": "jedaialotes-basquet",
+      "position": 1,
+      "played": 1,
+      "won": 1,
+      "drawn": 0,
+      "lost": 0,
+      "pointsFor": 78,
+      "pointsAgainst": 72,
+      "pointDifference": 6,
+      "points": 2,
+      "status": "promotion"
+    },
+    {
+      "teamId": "golden-state",
+      "position": 2,
+      "played": 1,
+      "won": 1,
+      "drawn": 0,
+      "lost": 0,
+      "pointsFor": 85,
+      "pointsAgainst": 80,
+      "pointDifference": 5,
+      "points": 2,
+      "status": "promotion"
+    },
+    {
+      "teamId": "gadilotes-basquet",
+      "position": 3,
+      "played": 1,
+      "won": 0,
+      "drawn": 0,
+      "lost": 1,
+      "pointsFor": 72,
+      "pointsAgainst": 78,
+      "pointDifference": -6,
+      "points": 1,
+      "status": "normal"
+    },
+    {
+      "teamId": "mekadesh-basquet",
+      "position": 4,
+      "played": 1,
+      "won": 0,
+      "drawn": 0,
+      "lost": 1,
+      "pointsFor": 80,
+      "pointsAgainst": 85,
+      "pointDifference": -5,
+      "points": 1,
+      "status": "normal"
+    }
+  ]
+}
+

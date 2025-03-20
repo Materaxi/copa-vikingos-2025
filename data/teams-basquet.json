@@ -1,0 +1,37 @@
+{
+  "teams": [
+    {
+      "id": "jedaialotes-basquet",
+      "name": "Jedaialotes",
+      "shortName": "JED",
+      "logo": "indigo-500",
+      "stadium": "Polideportivo Central",
+      "city": "Ciudad A"
+    },
+    {
+      "id": "gadilotes-basquet",
+      "name": "Gadilotes",
+      "shortName": "GAD",
+      "logo": "green-500",
+      "stadium": "Polideportivo Oeste",
+      "city": "Ciudad B"
+    },
+    {
+      "id": "golden-state",
+      "name": "Golden State Warriors",
+      "shortName": "GSW",
+      "logo": "blue-500",
+      "stadium": "Polideportivo Norte",
+      "city": "Ciudad C"
+    },
+    {
+      "id": "mekadesh-basquet",
+      "name": "Mekadesh",
+      "shortName": "MEK",
+      "logo": "pink-500",
+      "stadium": "Polideportivo Este",
+      "city": "Ciudad D"
+    }
+  ]
+}
+

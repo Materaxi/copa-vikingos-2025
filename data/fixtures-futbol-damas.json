@@ -1,0 +1,100 @@
+{
+  "rounds": [
+    {
+      "id": "round-1",
+      "name": "Fecha 1",
+      "dateRange": "22 Marzo, 2025",
+      "matches": [
+        {
+          "id": "match-1",
+          "homeTeam": "fabrica-heroes-damas",
+          "awayTeam": "mekadesh",
+        
+          "status": "upcoming",
+          "date": "22 Marzo, 2025",
+          "time": "21:00",
+          "venue": "Estadio UEB"
+        },
+        {
+          "id": "match-2",
+          "homeTeam": "kerigma",
+          "awayTeam": "shekinah",
+          
+          "status": "upcoming",
+          "date": "22 Marzo, 2025",
+          "time": "21:30",
+          "venue": "Estadio UEB"
+        }
+      ]
+    },
+    {
+      "id": "round-2",
+      "name": "Fecha 2",
+      "dateRange": "29 Marzo, 2025",
+      "matches": [
+        {
+          "id": "match-3",
+          "homeTeam": "fabrica-heroes-damas",
+          "awayTeam": "kerigma",
+          "status": "upcoming",
+          "date": "29 Marzo, 2025",
+          "time": "21:00",
+          "venue": "Estadio UEB"
+        },
+        {
+          "id": "match-4",
+          "homeTeam": "mekadesh",
+          "awayTeam": "shekinah",
+          "status": "upcoming",
+          "date": "29 Marzo, 2025",
+          "time": "21:30",
+          "venue": "Estadio UEB"
+        }
+      ]
+    },
+    {
+      "id": "round-3",
+      "name": "Fecha 3",
+      "dateRange": "5 Abril, 2025",
+      "matches": [
+        {
+          "id": "match-5",
+          "homeTeam": "fabrica-heroes-damas",
+          "awayTeam": "shekinah",
+          "status": "upcoming",
+          "date": "5 Abril, 2025",
+          "time": "21:00",
+          "venue": "Estadio UEB"
+        },
+        {
+          "id": "match-6",
+          "homeTeam": "mekadesh",
+          "awayTeam": "kerigma",
+          "status": "upcoming",
+          "date": "5 Abril, 2025",
+          "time": "21:30",
+          "venue": "Estadio UEB"
+        }
+      ]
+    },
+    {
+      "id": "final",
+      "name": "Final",
+      "dateRange": "12 Abril, 2025",
+      "matches": [
+        {
+          "id": "match-7",
+          "homeTeam": "fabrica-heroes-damas",
+          "awayTeam": "mekadesh",
+          "status": "upcoming",
+          "date": "12 Abril, 2025",
+          "time": "22:00",
+          "venue": "Estadio Nacional",
+          "group": "Final",
+          "description": "Estadio UEB"
+        }
+      ]
+    }
+  ]
+}
+
