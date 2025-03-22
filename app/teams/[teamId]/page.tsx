@@ -111,6 +111,10 @@ export default function TeamDetailPage() {
       mekadesh: "/images/teams/mekadesh.png",
       anonymous: "/images/teams/anonymous.png",
       shekinah: "/images/teams/shekinah.png",
+      jedaiah: "/images/teams/jedaiah.png",
+      "zelotes": "/images/teams/zelotes.png",
+      "kerigma": "/images/teams/kerigma.png",
+      "hombres-fuego": "/images/teams/hdf.png",
     }
 
     if (customLogos[team.id]) {

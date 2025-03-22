@@ -2,7 +2,7 @@
   "teams": [
     {
       "id": "fabrica-heroes-damas",
-      "name": "Fábrica de Héroes",
+      "name": "Fabrica Princess",
       "shortName": "FHD",
       "logo": "purple-500",
       "stadium": "Estadio Sur",
@@ -10,7 +10,7 @@
     },
     {
       "id": "mekadesh",
-      "name": "Mekadesh",
+      "name": "Dunaddenesh",
       "shortName": "MEK",
       "logo": "pink-500",
       "stadium": "Estadio Este",
