@@ -2,64 +2,65 @@
   "videos": [
     {
       "id": "video-1",
-      "title": "Resumen Fecha 1",
-      "description": "Los mejores momentos de la primera fecha del torneo",
-      "thumbnail": "/placeholder.svg?height=400&width=600",
-      "url": "https://www.youtube.com/watch?v=vtBZp50AL3w",
-      "youtubeId": "vtBZp50AL3w",
+      "title": "Objetivo de la Copa Vikingos 2025",
+      "description": "Objetivo de la Copa Vikingos 2025",
+      "thumbnail": "https://i9.ytimg.com/vi_webp/e4ujpE21JPg/mq2.webp?sqp=CIzEiL8G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGE4gZSgeMA8=&rs=AOn4CLAbcrU8ir6JQxaZwpAbWKNNCh2kpw",
+      "url": "https://www.youtube.com/watch?v=e4ujpE21JPg",
+      "youtubeId": "e4ujpE21JPg",
       "duration": "3:45",
-      "date": "12 Mar 2025"
+      "date": "22 Mar 2025"
     },
     {
       "id": "video-2",
-      "title": "Gol espectacular de Equipo A",
-      "description": "Increíble gol desde fuera del área",
-      "thumbnail": "/images/teams/kabod.png",
-      "url": "https://www.youtube.com/watch?v=vtBZp50AL3w",
-      "youtubeId": "vtBZp50AL3w",
+      "title": "2203 Futbol Damas - Copa Vikingos 2025",
+      "description": "Futbol Damas - Copa Vikingos 2025",
+      "thumbnail": "https://i9.ytimg.com/vi_webp/kJrx-8uZkEs/mq3.webp?sqp=COTIiL8G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEcgZShEMA8=&rs=AOn4CLDPAoI478ZEihLXt2Y3eVsLDRkwiQ",
+      "url": "https://www.youtube.com/watch?v=kJrx-8uZkEs",
+      "youtubeId": "kJrx-8uZkEs",
       "duration": "0:45",
-      "date": "10 Mar 2025"
+      "date": "22 Mar 2025"
     },
     {
       "id": "video-3",
-      "title": "Entrevista con el DT",
-      "description": "Entrevista exclusiva con el director técnico del Equipo C",
-      "thumbnail": "/images/teams/mekadesh.png",
-      "url": "https://www.youtube.com/watch?v=vtBZp50AL3w",
-      "youtubeId": "vtBZp50AL3w",
+      "title": "2203 Kabod 1 _ 0 Fabrica de Heroes - Copa Vikingos 2025",
+      "description": "2203 Kabod 1 _ 0 Fabrica de Heroes - Copa Vikingos 2025",
+      "thumbnail": "https://i9.ytimg.com/vi_webp/dzeXQHy8RUg/mq3.webp?sqp=COTIiL8G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXyhPMA8=&rs=AOn4CLCwFPfNMmO-ZqvBX3l07W3HJlWblg",
+      "url": "https://www.youtube.com/watch?v=dzeXQHy8RUg",
+      "youtubeId": "dzeXQHy8RUg",
       "duration": "5:20",
-      "date": "11 Mar 2025"
+      "date": "22 Mar 2025"
     },
     {
       "id": "video-4",
-      "title": "Mejores atajadas de la fecha",
-      "description": "Las atajadas más impresionantes de la primera fecha",
-      "thumbnail": "/images/teams/shekinah.png",
-      "url": "https://www.youtube.com/watch?v=vtBZp50AL3w",
-      "youtubeId": "vtBZp50AL3w",
+      "title": "2203 Notas de Voley Copa Vikingos 2025",
+      "description": "2203 Notas de Voley Copa Vikingos 2025",
+      "thumbnail": "https://i9.ytimg.com/vi_webp/Iykc-NAt968/mq2.webp?sqp=COTIiL8G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgTyhTMA8=&rs=AOn4CLCP5ELpk587JvQr8OjSq-SYFaoMEg",
+      "url": "https://www.youtube.com/watch?v=Iykc-NAt968",
+      "youtubeId": "Iykc-NAt968",
       "duration": "2:15",
-      "date": "12 Mar 2025"
-    },
-    {
-      "id": "video-100",
-      "title": "Copa Vikingos - Highlights",
-      "description": "Momentos destacados de la Copa Vikingos",
-      "thumbnail": "/images/teams/anonymous.png",
-      "url": "https://www.youtube.com/watch?v=vtBZp50AL3w",
-      "youtubeId": "vtBZp50AL3w",
-      "duration": "4:32",
       "date": "22 Mar 2025"
-    }
-  ],
-  "featuredVideos": [
-    {
-      "id": "video-101",
+    },
+  
+     {
+      "id": "video-0",
       "title": "Listo para iniciar el Campeonato - Highlights",
       "description": "El Pr Nani y jovenes de la IU invitan a la Copa Vikingos",
       "thumbnail": "/images/logo.png",
       "url": "https://www.youtube.com/watch?v=giEYwbuTh3Y",
       "youtubeId": "giEYwbuTh3Y",
       "duration": "4:32",
+      "date": "15 Mar 2025"
+    }
+  ],
+  "featuredVideos": [
+    {
+      "id": "video-1",
+      "title": "Objetivo de la Copa Vikingos 2025",
+      "description": "Objetivo de la Copa Vikingos 2025",
+      "thumbnail": "https://i9.ytimg.com/vi_webp/e4ujpE21JPg/mq2.webp?sqp=CIzEiL8G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGE4gZSgeMA8=&rs=AOn4CLAbcrU8ir6JQxaZwpAbWKNNCh2kpw",
+      "url": "https://www.youtube.com/watch?v=e4ujpE21JPg",
+      "youtubeId": "e4ujpE21JPg",
+      "duration": "3:45",
       "date": "22 Mar 2025"
     },
     {

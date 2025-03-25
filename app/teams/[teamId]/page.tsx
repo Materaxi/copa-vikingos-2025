@@ -12,65 +12,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table"
 import MatchCard from "@/components/match-card"
 import { getTeamById, getMatchesByTeam, type Team, type Match } from "@/lib/data-utils"
-
-// Datos de ejemplo para jugadores
-const mockPlayers = [
-  {
-    id: "player-1",
-    name: "Juan Pérez",
-    number: 10,
-    position: "Delantero",
-    age: 25,
-    goals: 5,
-    assists: 3,
-    yellowCards: 2,
-    redCards: 0,
-  },
-  {
-    id: "player-2",
-    name: "Carlos Rodríguez",
-    number: 5,
-    position: "Mediocampista",
-    age: 28,
-    goals: 2,
-    assists: 6,
-    yellowCards: 1,
-    redCards: 0,
-  },
-  {
-    id: "player-3",
-    name: "Miguel González",
-    number: 1,
-    position: "Portero",
-    age: 30,
-    goals: 0,
-    assists: 0,
-    yellowCards: 0,
-    redCards: 0,
-  },
-  {
-    id: "player-4",
-    name: "Roberto Sánchez",
-    number: 4,
-    position: "Defensa",
-    age: 27,
-    goals: 1,
-    assists: 0,
-    yellowCards: 3,
-    redCards: 1,
-  },
-  {
-    id: "player-5",
-    name: "Alejandro Martínez",
-    number: 7,
-    position: "Mediocampista",
-    age: 24,
-    goals: 3,
-    assists: 2,
-    yellowCards: 2,
-    redCards: 0,
-  },
-]
+import { getPlayersByTeamAndSport, type Player } from "@/lib/player-utils"
 
 export default function TeamDetailPage() {
   const params = useParams()
@@ -81,6 +23,7 @@ export default function TeamDetailPage() {
 
   const [team, setTeam] = useState<Team | null>(null)
   const [matches, setMatches] = useState<Match[]>([])
+  const [players, setPlayers] = useState<Player[]>([])
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
@@ -95,10 +38,12 @@ export default function TeamDetailPage() {
     setLoading(true)
     const loadedTeam = getTeamById(teamId, sportId)
     const loadedMatches = getMatchesByTeam(teamId, sportId)
+    const loadedPlayers = getPlayersByTeamAndSport(teamId, sportId)
 
     if (loadedTeam) {
       setTeam(loadedTeam)
       setMatches(loadedMatches)
+      setPlayers(loadedPlayers)
     }
     setLoading(false)
   }, [teamId, sportId])
@@ -173,6 +118,9 @@ export default function TeamDetailPage() {
             </Link>
             <Link href="/photos" className="font-medium text-muted-foreground transition-colors hover:text-primary">
               Fotos
+            </Link>
+            <Link href="/videos" className="font-medium text-muted-foreground transition-colors hover:text-primary">
+              Videos
             </Link>
           </nav>
           <Button variant="outline" size="sm" className="hidden md:flex">
@@ -270,16 +218,24 @@ export default function TeamDetailPage() {
                           </TableRow>
                         </TableHeader>
                         <TableBody>
-                          {mockPlayers.map((player) => (
-                            <TableRow key={player.id}>
-                              <TableCell className="font-medium">{player.number}</TableCell>
-                              <TableCell>{player.name}</TableCell>
-                              <TableCell>{player.position}</TableCell>
-                              <TableCell className="text-right">{player.age}</TableCell>
-                              <TableCell className="text-right">{player.goals}</TableCell>
-                              <TableCell className="text-right">{player.assists}</TableCell>
+                          {players.length > 0 ? (
+                            players.map((player) => (
+                              <TableRow key={player.id}>
+                                <TableCell className="font-medium">{player.number}</TableCell>
+                                <TableCell>{player.name}</TableCell>
+                                <TableCell>{player.position}</TableCell>
+                                <TableCell className="text-right">{player.age}</TableCell>
+                                <TableCell className="text-right">{player.goals}</TableCell>
+                                <TableCell className="text-right">{player.assists}</TableCell>
+                              </TableRow>
+                            ))
+                          ) : (
+                            <TableRow>
+                              <TableCell colSpan={6} className="text-center py-4">
+                                No hay datos de jugadores disponibles para este equipo.
+                              </TableCell>
                             </TableRow>
-                          ))}
+                          )}
                         </TableBody>
                       </Table>
                     </CardContent>
