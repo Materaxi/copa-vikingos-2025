@@ -81,18 +81,9 @@
           "venue": "Estadio UEB",
           "group": "A"
         },
+       
         {
           "id": "match-7",
-          "homeTeam": "anonymous",
-          "awayTeam": "club-italia",
-          "status": "upcoming",
-          "date": "29 Marzo, 2025",
-          "time": "22:00",
-          "venue": "Estadio UEB",
-          "group": "B"
-        },
-        {
-          "id": "match-8",
           "homeTeam": "zelotes",
           "awayTeam": "generacion-kabob",
           "status": "upcoming",
@@ -100,10 +91,18 @@
           "time": "22:30",
           "venue": "Estadio UEB",
           "group": "A"
+        },
+        {
+          "id": "match-8",
+          "homeTeam": "anonymous",
+          "awayTeam": "club-italia",
+          "status": "upcoming",
+          "date": "29 Marzo, 2025",
+          "time": "22:00",
+          "venue": "Estadio UEB",
+          "group": "B"
         }
-        
-        
-        
+                        
       ]
     },
     {
