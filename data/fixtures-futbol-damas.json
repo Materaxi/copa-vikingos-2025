@@ -10,7 +10,9 @@
           "homeTeam": "fabrica-heroes-damas",
           "awayTeam": "mekadesh",
         
-          "status": "upcoming",
+          "homeScore": 0,
+          "awayScore": 3,
+          "status": "completed",
           "date": "22 Marzo, 2025",
           "time": "21:00",
           "venue": "Estadio UEB"
@@ -20,7 +22,9 @@
           "homeTeam": "kerigma",
           "awayTeam": "shekinah",
           
-          "status": "upcoming",
+          "homeScore": 0,
+          "awayScore": 2,
+          "status": "completed",
           "date": "22 Marzo, 2025",
           "time": "21:30",
           "venue": "Estadio UEB"

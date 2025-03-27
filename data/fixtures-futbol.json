@@ -9,8 +9,9 @@
           "id": "match-1",
           "homeTeam": "generacion-kabob",
           "awayTeam": "fabrica-heroes",
-          
-          "status": "upcoming",
+          "homeScore": 1,
+          "awayScore": 0,
+          "status": "completed",
           "date": "22 Marzo, 2025",
           "time": "21:00",
           "venue": "Estadio UEB",
@@ -19,9 +20,10 @@
         {
           "id": "match-2",
           "homeTeam": "hombres-fuego",
-          "awayTeam": "anonymous",
-       
-          "status": "upcoming",
+          "awayTeam": "anonymous",      
+          "homeScore": 3,
+          "awayScore": 2,
+          "status": "completed",
           "date": "22 Marzo, 2025",
           "time": "21:30",
           "venue": "Estadio UEB",
@@ -31,9 +33,10 @@
         {
           "id": "match-3",
           "homeTeam": "legado-fc",
-          "awayTeam": "club-italia",
-          
-          "status": "upcoming",
+          "awayTeam": "club-italia",          
+          "homeScore": 2,
+          "awayScore": 2,
+          "status": "completed",
           "date": "22 Marzo, 2025",
           "time": "22:00",
           "venue": "Estadio UEB",
@@ -43,8 +46,9 @@
           "id": "match-4",
           "homeTeam": "zelotes",
           "awayTeam": "vikingos",
-         
-          "status": "upcoming",
+         "homeScore": 3,
+          "awayScore": 2,
+          "status": "completed",       
           "date": "22 Marzo, 2025",
           "time": "22:30",
           "venue": "Estadio UEB",

@@ -9,8 +9,9 @@
           "id": "match-1",
           "homeTeam": "jedaialotes",
           "awayTeam": "vikingos-voley",
-         
-          "status": "upcoming",
+          "homeScore": 2,
+          "awayScore": 1,
+          "status": "completed",
           "date": "22 Marzo, 2025",
           "time": "21:00",
           "venue": "Polideportivo UEB",
@@ -20,8 +21,9 @@
           "id": "match-2",
           "homeTeam": "fuegodaia",
           "awayTeam": "gadilotes",
-       
-          "status": "upcoming",
+          "homeScore": 2,
+          "awayScore": 0,
+          "status": "completed",
           "date": "22 Marzo, 2025",
           "time": "21:30",
           "venue": "Gimnasio UEB",
