@@ -23,7 +23,7 @@
       "pointsFor": 8,
       "pointsAgainst": 17,
       "pointDifference": -9,
-      "points": 2,
+      "points": 0,
       "status": "promotion"
     },
     {
@@ -36,7 +36,7 @@
       "pointsFor": 6,
       "pointsAgainst": 16,
       "pointDifference": -10,
-      "points": 1,
+      "points": 0,
       "status": "normal"
     },
     {
@@ -49,7 +49,7 @@
       "pointsFor": 17,
       "pointsAgainst": 8,
       "pointDifference": 9,
-      "points": 1,
+      "points": 3,
       "status": "normal"
     }
   ]
