@@ -40,7 +40,9 @@
           "id": "match-3",
           "homeTeam": "jedaialotes-basquet",
           "awayTeam": "golden-state",
-          "status": "upcoming",
+          "homeScore": 29,
+          "awayScore": 20,
+          "status": "completed",
           "date": "5 Abril, 2025",
           "time": "21:00",
           "venue": "Polideportivo UEB"
@@ -49,7 +51,9 @@
           "id": "match-4",
           "homeTeam": "gadilotes-basquet",
           "awayTeam": "mekadesh-basquet",
-          "status": "upcoming",
+          "homeScore": 10,
+          "awayScore": 23,
+          "status": "completed",
           "date": "5 Abril, 2025",
           "time": "22:00",
           "venue": "Polideportivo UEB"
@@ -65,7 +69,9 @@
           "id": "match-5",
           "homeTeam": "jedaialotes-basquet",
           "awayTeam": "mekadesh-basquet",
-          "status": "upcoming",
+          "homeScore": 27,
+          "awayScore": 33,
+          "status": "completed",
           "date": "12 Abril, 2025",
           "time": "21:00",
           "venue": "Polideportivo UEB"
@@ -74,7 +80,9 @@
           "id": "match-6",
           "homeTeam": "gadilotes-basquet",
           "awayTeam": "golden-state",
-          "status": "upcoming",
+          "homeScore": 8,
+          "awayScore": 12,
+          "status": "completed",
           "date": "12 Abril, 2025",
           "time": "22:00",
           "venue": "Polideportivo UEB"
