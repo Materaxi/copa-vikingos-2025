@@ -34,14 +34,16 @@
     {
       "id": "round-2",
       "name": "Fecha 2 - Fase de Grupos",
-      "dateRange": "29 Marzo, 2025",
+      "dateRange": "26 Abril, 2025",
       "matches": [
         {
           "id": "match-3",
           "homeTeam": "jedaialotes",
           "awayTeam": "republicanos",
-          "status": "upcoming",
-          "date": "29 Marzo, 2025",
+          "homeScore": 0,
+          "awayScore": 2,
+          "status": "completed",
+          "date": "26 Abril, 2025",
           "time": "21:00",
           "venue": "Polideportivo UEB",
           "group": "A"
@@ -50,8 +52,10 @@
           "id": "match-4",
           "homeTeam": "fuegodaia",
           "awayTeam": "shekinonymous",
-          "status": "upcoming",
-          "date": "29 Marzo, 2025",
+          "homeScore": 1,
+          "awayScore": 2,
+          "status": "completed",
+          "date": "26 Abril, 2025",
           "time": "21:30",
           "venue": "Gimnasio UEB",
           "group": "B"
@@ -61,7 +65,7 @@
     {
       "id": "round-3",
       "name": "Fecha 3 - Fase de Grupos",
-      "dateRange": "5 Abril, 2025",
+      "dateRange": "3 Mayo, 2025",
       "matches": [
        
         {
@@ -69,7 +73,7 @@
           "homeTeam": "gadilotes",
           "awayTeam": "shekinonymous",
           "status": "upcoming",
-          "date": "5 Abril, 2025",
+          "date": "3 Mayo, 2025",
           "time": "21:00",
           "venue": "Polideportivo UEB",
           "group": "B"
@@ -79,7 +83,7 @@
           "homeTeam": "vikingos-voley",
           "awayTeam": "republicanos",
           "status": "upcoming",
-          "date": "5 Abril, 2025",
+          "date": "3 Mayo, 2025",
           "time": "21:30",
           "venue": "Polideportivo UEB",
           "group": "A"
