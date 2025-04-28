@@ -88,8 +88,10 @@
           "id": "match-7",
           "homeTeam": "zelotes",
           "awayTeam": "generacion-kabob",
-          "status": "upcoming",
-          "date": "29 Marzo, 2025",
+          "homeScore": 4,
+          "awayScore": 2,
+          "status": "completed",
+          "date": "26 Abril, 2025",
           "time": "22:30",
           "venue": "Estadio UEB",
           "group": "A"
