@@ -93,14 +93,14 @@
     {
       "id": "semifinal",
       "name": "Semifinales",
-      "dateRange": "12 Abril, 2025",
+      "dateRange": "10 Mayo, 2025",
       "matches": [
         {
           "id": "match-7",
           "homeTeam": "jedaialotes",
           "awayTeam": "shekinonymous",
           "status": "upcoming",
-          "date": "12 Abril, 2025",
+          "date": "10 Mayo, 2025",
           "time": "21:00",
           "venue": "Polideportivo UEB",
           "group": "Semifinal",
@@ -111,7 +111,7 @@
           "homeTeam": "gadilotes",
           "awayTeam": "vikingos-voley",
           "status": "upcoming",
-          "date": "12 Abril, 2025",
+          "date": "10 Mayo, 2025",
           "time": "21:30",
           "venue": "Polideportivo UEB",
           "group": "Semifinal",
@@ -122,14 +122,14 @@
     {
       "id": "final",
       "name": "Final",
-      "dateRange": "19 Abril, 2025",
+      "dateRange": "17 Mayo, 2025",
       "matches": [
         {
           "id": "match-9",
           "homeTeam": "jedaialotes",
           "awayTeam": "gadilotes",
           "status": "upcoming",
-          "date": "12 Abril, 2025",
+          "date": "17 Mayo, 2025",
           "time": "22:00",
           "venue": "Polideportivo UEB",
           "group": "Final",
