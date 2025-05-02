@@ -90,14 +90,14 @@
     {
       "id": "final",
       "name": "Final",
-      "dateRange": "12 Abril, 2025",
+      "dateRange": "17 Mayo, 2025",
       "matches": [
         {
           "id": "match-7",
           "homeTeam": "fabrica-heroes-damas",
           "awayTeam": "mekadesh",
           "status": "upcoming",
-          "date": "12 Abril, 2025",
+          "date": "17 Mayo, 2025",
           "time": "22:00",
           "venue": "Estadio Nacional",
           "group": "Final",
