@@ -59,7 +59,7 @@
     {
       "id": "round-2",
       "name": "Fecha 2 - Fase de Grupos",
-      "dateRange": "29 Marzo, 2025",
+      "dateRange": "26 Abril, 2025",
       "matches": [
         {
           "id": "match-5",
@@ -116,7 +116,7 @@
     {
       "id": "round-3",
       "name": "Fecha 3 - Fase de Grupos",
-      "dateRange": "5 Abril, 2025",
+      "dateRange": "3 Mayo, 2025",
       "matches": [
       
         {
@@ -124,7 +124,7 @@
           "homeTeam": "hombres-fuego",
           "awayTeam": "club-italia",
           "status": "upcoming",
-          "date": "5 Abril, 2025",
+          "date": "3 Mayo, 2025",
           "time": "21:00",
           "venue": "Estadio UEB",
           "group": "B"
@@ -134,7 +134,7 @@
           "homeTeam": "zelotes",
           "awayTeam": "fabrica-heroes",
           "status": "upcoming",
-          "date": "5 Abril, 2025",
+          "date": "3 Mayo, 2025",
           "time": "21:30",
           "venue": "Estadio UEB",
           "group": "A"
@@ -144,7 +144,7 @@
           "homeTeam": "anonymous",
           "awayTeam": "legado-fc",
           "status": "upcoming",
-          "date": "5 Abril, 2025",
+          "date": "3 Mayo, 2025",
           "time": "22:00",
           "venue": "Estadio UEB",
           "group": "B"
@@ -154,7 +154,7 @@
           "homeTeam": "vikingos",
           "awayTeam": "generacion-kabob",
           "status": "upcoming",
-          "date": "5 Abril, 2025",
+          "date": "3 Mayo, 2025",
           "time": "22:30",
           "venue": "Estadio UEB",
           "group": "A"
@@ -164,14 +164,14 @@
     {
       "id": "semifinal",
       "name": "Semifinales",
-      "dateRange": "12 Abril, 2025",
+      "dateRange": "10 Mayo, 2025",
       "matches": [
         {
           "id": "match-13",
           "homeTeam": "Primero A",
           "awayTeam": "Segundo B",
           "status": "upcoming",
-          "date": "12 Abril, 2025",
+          "date": "10 Mayo, 2025",
           "time": "21:00",
           "venue": "Estadio UEB",
           "group": "Semifinal",
@@ -182,7 +182,7 @@
           "homeTeam": "Primero B",
           "awayTeam": "Segundo A",
           "status": "upcoming",
-          "date": "12 Abril, 2025",
+          "date": "10 Mayo, 2025",
           "time": "21:30",
           "venue": "Estadio UEB",
           "group": "Semifinal",
@@ -193,14 +193,14 @@
     {
       "id": "final",
       "name": "Final",
-      "dateRange": "12 Abril, 2025",
+      "dateRange": "17 Mayo, 2025",
       "matches": [
         {
           "id": "match-15",
           "homeTeam": "Ganador Semifinal 1",
           "awayTeam": "Ganador Semifinal 2",
           "status": "upcoming",
-          "date": "12 Abril, 2025",
+          "date": "17 Mayo, 2025",
           "time": "22:15",
           "venue": "Estadio UEB",
           "group": "Final",
