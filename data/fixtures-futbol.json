@@ -176,8 +176,8 @@
       "matches": [
         {
           "id": "match-13",
-          "homeTeam": "zelotes",
-          "awayTeam": "club-italia",
+          "homeTeam": "hombres-fuego",
+          "awayTeam": "generacion-kabob",
           "status": "upcoming",
           "date": "18 Octubre, 2025",
           "time": "21:00",
@@ -188,7 +188,7 @@
         {
           "id": "match-14",
           "homeTeam": "fabrica-heroes",
-          "awayTeam": "hombres-fuego",
+          "awayTeam": "anonymous",
           "status": "upcoming",
           "date": "18 Octubre, 2025",
           "time": "21:30",
