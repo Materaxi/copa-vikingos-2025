@@ -123,6 +123,8 @@
           "id": "match-9",
           "homeTeam": "hombres-fuego",
           "awayTeam": "club-italia",
+           "homeScore": 4,
+          "awayScore": 0,
           "status": "upcoming",
           "date": "11 Octubre, 2025",
           "time": "21:00",
