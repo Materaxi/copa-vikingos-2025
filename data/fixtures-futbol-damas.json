@@ -64,14 +64,14 @@
     {
       "id": "round-3",
       "name": "Fecha 3",
-      "dateRange": "3 Mayo, 2025",
+      "dateRange": "18 Octubre, 2025",
       "matches": [
         {
           "id": "match-6",
           "homeTeam": "mekadesh",
           "awayTeam": "kerigma",
           "status": "upcoming",
-          "date": "3 Mayo, 2025",
+          "date": "18 Octubre, 2025",
           "time": "21:30",
           "venue": "Estadio UEB"
         },
@@ -80,7 +80,7 @@
           "homeTeam": "fabrica-heroes-damas",
           "awayTeam": "shekinah",
           "status": "upcoming",
-          "date": "3 Mayo, 2025",
+          "date": "18 Octubre, 2025",
           "time": "21:00",
           "venue": "Estadio UEB"
         }
@@ -90,14 +90,14 @@
     {
       "id": "final",
       "name": "Final",
-      "dateRange": "17 Mayo, 2025",
+      "dateRange": "25 Octubre, 2025",
       "matches": [
         {
           "id": "match-7",
           "homeTeam": "fabrica-heroes-damas",
           "awayTeam": "mekadesh",
           "status": "upcoming",
-          "date": "17 Mayo, 2025",
+          "date": "25 Octubre, 2025",
           "time": "22:00",
           "venue": "Estadio Nacional",
           "group": "Final",
