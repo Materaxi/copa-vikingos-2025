@@ -23,7 +23,7 @@
       "lost": 3,
       "goalsFor": 7,
       "goalsAgainst": 13,
-      "goalDifference": -6,
+      "goalDifference": 6,
       "points": 0,
       "status": "normal",
       "group": "A"
@@ -37,7 +37,7 @@
       "lost": 1,
       "goalsFor": 6,
       "goalsAgainst": 4,
-      "goalDifference": +2,
+      "goalDifference": 2,
       "points": 6,
       "status": "promotion",
       "group": "A"
@@ -51,7 +51,7 @@
       "lost": 1,
       "goalsFor": 10,
       "goalsAgainst": 6,
-      "goalDifference": +4,
+      "goalDifference": 4,
       "points": 3,
       "status": "promotion",
       "group": "A"
@@ -79,7 +79,7 @@
       "lost": 1,
       "goalsFor": 2,
       "goalsAgainst": 6,
-      "goalDifference": -4,
+      "goalDifference": 4,
       "points": 1,
       "status": "promotion",
       "group": "B"
@@ -107,7 +107,7 @@
       "lost": 1,
       "goalsFor": 7,
       "goalsAgainst": 8,
-      "goalDifference": -1,
+      "goalDifference": 1,
       "points": 1,
       "status": "normal",
       "group": "B"
