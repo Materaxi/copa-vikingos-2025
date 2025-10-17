@@ -172,14 +172,14 @@
     {
       "id": "semifinal",
       "name": "Semifinales",
-      "dateRange": "10 Mayo, 2025",
+      "dateRange": "18 Octubre, 2025",
       "matches": [
         {
           "id": "match-13",
-          "homeTeam": "",
-          "awayTeam": "",
+          "homeTeam": "zelotes",
+          "awayTeam": "club-italia",
           "status": "upcoming",
-          "date": "10 Mayo, 2025",
+          "date": "18 Octubre, 2025",
           "time": "21:00",
           "venue": "Estadio UEB",
           "group": "Semifinal",
@@ -187,10 +187,10 @@
         },
         {
           "id": "match-14",
-          "homeTeam": "Primero B",
-          "awayTeam": "Segundo A",
+          "homeTeam": "fabrica-heroes",
+          "awayTeam": "hombres-fuego",
           "status": "upcoming",
-          "date": "10 Mayo, 2025",
+          "date": "18 Octubre, 2025",
           "time": "21:30",
           "venue": "Estadio UEB",
           "group": "Semifinal",
@@ -201,14 +201,14 @@
     {
       "id": "final",
       "name": "Final",
-      "dateRange": "17 Mayo, 2025",
+      "dateRange": "25 Octubre, 2025",
       "matches": [
         {
           "id": "match-15",
           "homeTeam": "Ganador Semifinal 1",
           "awayTeam": "Ganador Semifinal 2",
           "status": "upcoming",
-          "date": "17 Mayo, 2025",
+          "date": "25 Octubre, 2025",
           "time": "22:15",
           "venue": "Estadio UEB",
           "group": "Final",
