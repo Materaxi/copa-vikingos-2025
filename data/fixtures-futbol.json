@@ -205,15 +205,15 @@
     {
       "id": "final",
       "name": "Final",
-      "dateRange": "25 Octubre, 2025",
+      "dateRange": "1 Noviembre, 2025",
       "matches": [
         {
           "id": "match-15",
-          "homeTeam": "Ganador Semifinal 1",
-          "awayTeam": "Ganador Semifinal 2",
+          "homeTeam": "hombres-fuego",
+          "awayTeam": "fabrica-heroes",
           "status": "upcoming",
-          "date": "25 Octubre, 2025",
-          "time": "22:15",
+          "date": "1 Noviembre, 2025",
+          "time": "21:15",
           "venue": "Estadio UEB",
           "group": "Final",
           "description": "Gran Final"
