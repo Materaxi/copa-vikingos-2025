@@ -172,14 +172,14 @@
     {
       "id": "semifinal",
       "name": "Semifinales",
-      "dateRange": "18 Octubre, 2025",
+      "dateRange": "25 Octubre, 2025",
       "matches": [
         {
           "id": "match-13",
           "homeTeam": "hombres-fuego",
           "awayTeam": "generacion-kabob",
           "status": "upcoming",
-          "date": "18 Octubre, 2025",
+          "date": "25 Octubre, 2025",
           "time": "21:00",
           "venue": "Estadio UEB",
           "group": "Semifinal",
@@ -190,7 +190,7 @@
           "homeTeam": "fabrica-heroes",
           "awayTeam": "anonymous",
           "status": "upcoming",
-          "date": "18 Octubre, 2025",
+          "date": "25 Octubre, 2025",
           "time": "21:30",
           "venue": "Estadio UEB",
           "group": "Semifinal",
