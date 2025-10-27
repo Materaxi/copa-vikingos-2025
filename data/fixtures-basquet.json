@@ -92,14 +92,14 @@
     {
       "id": "final",
       "name": "Final",
-      "dateRange": "26 Abril, 2025",
+      "dateRange": "1 Noviembre, 2025",
       "matches": [
         {
           "id": "match-7",
           "homeTeam": "mekadesh-basquet",
           "awayTeam": "jedaialotes-basquet",
           "status": "upcoming",
-          "date": "26 Abril, 2025",
+          "date": "1 Noviembre, 2025",
           "time": "21:00",
           "venue": "Polideportivo UEB",
           "group": "Final",
