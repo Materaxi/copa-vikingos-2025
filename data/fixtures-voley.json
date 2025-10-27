@@ -65,15 +65,17 @@
     {
       "id": "round-3",
       "name": "Fecha 3 - Fase de Grupos",
-      "dateRange": "18 Octubre, 2025",
+      "dateRange": "25 Octubre, 2025",
       "matches": [
        
         {
           "id": "match-5",
           "homeTeam": "gadilotes",
           "awayTeam": "shekinonymous",
-          "status": "upcoming",
-          "date": "18 Octubre, 2025",
+           "homeScore": 2,
+          "awayScore": 0,
+          "status": "completed",
+          "date": "25 Octubre, 2025",
           "time": "21:00",
           "venue": "Polideportivo UEB",
           "group": "B"
@@ -82,8 +84,10 @@
           "id": "match-6",
           "homeTeam": "vikingos-voley",
           "awayTeam": "republicanos",
-          "status": "upcoming",
-          "date": "18 Octubre, 2025",
+           "homeScore": 0,
+          "awayScore": 2,
+          "status": "completed",
+          "date": "25 Octubre, 2025",
           "time": "21:30",
           "venue": "Polideportivo UEB",
           "group": "A"
