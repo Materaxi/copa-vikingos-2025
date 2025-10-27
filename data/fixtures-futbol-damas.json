@@ -94,15 +94,15 @@
     {
       "id": "final",
       "name": "Final",
-      "dateRange": "25 Octubre, 2025",
+      "dateRange": "1 Noviembre, 2025",
       "matches": [
         {
           "id": "match-7",
-          "homeTeam": "fabrica-heroes-damas",
+          "homeTeam": "shekinah",
           "awayTeam": "mekadesh",
           "status": "upcoming",
-          "date": "25 Octubre, 2025",
-          "time": "22:00",
+          "date": "1 Noviembre, 2025",
+          "time": "21:15",
           "venue": "Estadio Nacional",
           "group": "Final",
           "description": "Estadio UEB"
