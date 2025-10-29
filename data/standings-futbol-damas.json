@@ -10,20 +10,20 @@
       "goalsFor": 4,
       "goalsAgainst": 3,
       "goalDifference": 1,
-      "points": 3,
+      "points": 6,
       "status": "promotion"
     },
     {
       "teamId": "kerigma",
       "position": 2,
       "played": 3,
-      "won": 1,
+      "won": 0,
       "drawn": 0,
-      "lost": 2,
+      "lost": 3,
       "goalsFor": 1,
       "goalsAgainst": 6,
       "goalDifference": -5,
-      "points": 3,
+      "points": 0,
       "status": "normal"
     },
     {
